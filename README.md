@@ -77,6 +77,7 @@ Y= A⊕B
  Developed by: RegisterNumber: 
  
 **Logic symbol & Truthtable**
+<img width="722" height="687" alt="image" src="https://github.com/user-attachments/assets/442f5c30-36d3-4039-978a-e2e2d461643c" />
 
 **RTL realization Output:** 
 <img width="1920" height="1080" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/178797b8-4f37-4235-b1f9-c54f11f3faa6" />
